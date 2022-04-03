@@ -1,0 +1,56 @@
+MASTER
+
+D0-RX0-	Serial Com	A0- LM358
+D1-TX0-	Serial Com	A1-
+D2-			A3-
+D3-			A4-
+D4-			A5-
+D5- SaberM1		A6-
+D6- SaberM2		A7-
+D7- SaberM3		A8-
+D8- CytronM-PWM		A9-
+D9- RX1- ODRV1		A10-
+D10- Stepper		A11-
+D11- Stepper		A12-
+D12- Servo		A13-
+D13-TX1- ODRV1		A14-
+D14-TX3-	ODRV3		A15-
+D15-RX3-  ODRV3
+D16-TX2- ODRV2
+D17-RX2- ODRV2
+D18-ENC1(TX1)
+D19-ENC2(RX1)
+D20-SDA- (upperSDA) I2C
+D21-SCL- (upperSCL) I2C
+D22-ENC1
+D23-ENC2
+D24-
+D25-
+D26- CytronM-DIR
+D27- 
+D28- Proximity2
+D29- Proximity1
+D30-ULN_input7 
+D31-ULN_input6
+D32-ULN_input5
+D33-ULN_input4
+D34-ULN_input3
+D35-ULN_input2
+D36-ULN_input1
+D37- 
+D38-LIM1
+D39-LIM1
+D40-LIM2
+D41-LIM2
+D42-BUZZ
+D43-Parallel
+D44-Parallel
+D45-Parallel
+D46-Parallel
+D47-Parallel
+D48-Parallel
+D49-Parallel
+D50-
+D51-
+D52-DebugLED
+D53-
